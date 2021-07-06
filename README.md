@@ -1,7 +1,7 @@
 # About shioken
 
-name しおけん
-twitter @shioken
+- しおけん
+- twitter @shioken
 
 ## 使える言語
 - Kotlin, Swift, Java, Objective-C, C/C++
