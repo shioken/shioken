@@ -3,13 +3,17 @@
 name しおけん
 twitter @shioken
 
-## 使える言語・技術
+## 使える言語
 Kotlin, Swift, Python, JavaScript, Java, Objective-C, C/C++, (PHP)
+
+## 環境・フレームワーク
 Android, iOS, Node.js, Processing, (TypeScript)
+AWS, Google Cloud Platform
 
+## DB
 SQLite, MongoDB
-AWS
 
+## Other
 GPS、Bluetooth
 
 ## 経歴
