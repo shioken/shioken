@@ -6,7 +6,7 @@
 
 ## SNS
 
-* **Twitter** : [@shioken](https://twitter.com/shioken)
+* **X** : [@shioken]([https://twitter.com/shioken](https://x.com/shioken))
 * **Gists** : [https://gist.github.com/shioken](https://gist.github.com/shioken)
 
 ---
@@ -48,4 +48,4 @@
 
 ---
 
-📬 お問い合わせは Twitter DM または GitHub Discussions までお気軽に！
+📬 お問い合わせは X DM または GitHub Discussions までお気軽に！
