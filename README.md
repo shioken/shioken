@@ -6,7 +6,7 @@
 
 ## SNS
 
-* **X** : [@shioken]([https://twitter.com/shioken](https://x.com/shioken))
+* **X** : [https://x.com/shioken](https://x.com/shioken)
 * **Gists** : [https://gist.github.com/shioken](https://gist.github.com/shioken)
 
 ---
